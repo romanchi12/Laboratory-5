@@ -1,0 +1,7 @@
+5 Katya 13000.0
+1 Dmitro 12000.0
+0 Roman 12000.0
+6 Oleg 11648.0
+4 Kolya 10816.0
+2 Anton 10000.0
+3 Kolya 9984.0
